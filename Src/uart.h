@@ -2,7 +2,7 @@
  * uart.h
  *
  *  Created on: May 21, 2023
- *      Author: partha Bakali
+ *      Author: Raishul Islam
  */
 
 #ifndef UART_H_
