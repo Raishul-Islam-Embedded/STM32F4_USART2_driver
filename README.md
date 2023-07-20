@@ -1,1 +1,3 @@
 # STM32F4_USART2_driver
+This is a STM32F4 project. Which perform a printf function. This project includes a USART bare metal driver. This driver and is made up without using HAL libraries.
+If you want to use this code just have to change the directory according to your workspace...
